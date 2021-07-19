@@ -10,5 +10,5 @@ Server for our React Native mobile marketplace. Extends the [MERN Marketplace](h
 ### Ensure .env secrets are configured for database
     config/config.js
 
-### Run server
+### Start server
     node -r dotenv/config server.js
