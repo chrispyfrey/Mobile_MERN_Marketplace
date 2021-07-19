@@ -20,7 +20,7 @@ React Native mobile client for our extension of the [MERN Marketplace](https://g
 ### Download and/or open Expo Go application on mobile device
 - Console/Expo-web-interface will output a QR code to scan. 
 - Scan from Expo Go on Android.
-- Scan from camera app on iOS - Various components are broken on iOS.
+- Scan from camera app on iOS - various UI components are broken on iOS.
 
 ### Images
 
