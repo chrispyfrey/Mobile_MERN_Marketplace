@@ -5,8 +5,7 @@ A collaborative project between Chris Frey, Aaron Dickman, Jeremy Gage, and Lore
 
 ## Goal
 
-Extend the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/master) to include a mobile client and the option to round to the next dollar amount as a charity donation.
-
+Extend the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/master) to include a mobile client and the option to round to the next dollar amount as a charity donation during checkout.
 ## Technologies
 - MongoDB
 - Express
