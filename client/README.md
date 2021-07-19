@@ -1,8 +1,6 @@
 # Group #11 Final Project
 
-A single-seller shop for Android based off of our React textbook's MERN Marketplace, expanded to allow users to elect to round up the total of their order and donate the additional cents to charity.
-
-Implemented using React Native, MongoDB, Node.js, Express, and Expo.
+React Native mobile client for our extension of the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/master). Only targets Android at this time. MERN Marketplace client reinterpreted for mobile environment and extended for charity round-up.
 
 ## How to use
 
