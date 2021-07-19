@@ -10,7 +10,7 @@ React Native mobile client for our extension of the [MERN Marketplace](https://g
 ### Install dependancies
     npm install
     
-### Point notEnv.js -> NOT_ENV.API_DOMAIN to API server
+### Within notEnv.js, define NOT_ENV.API_DOMAIN as your server endpoint
 - Default is set to https://csc3916-team11-final-server.herokuapp.com/
 - If running locally, use local IP address instead of localhost
 
