@@ -10,8 +10,9 @@ Extend the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tre
 ## Technologies
 <ol>
 <li>MongoDB</li>
-<li>Express.js</li>
+<li>Express</li>
 <li>React Native</li>
-<li>Node.js</li>
+<li>Node</li>
+<li>Expo</li>
 <li>Stripe API</li>
 </ol>
