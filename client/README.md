@@ -2,7 +2,7 @@
 
 React Native mobile client for our extension of the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/master). Only targets Android at this time. MERN Marketplace client reinterpreted for mobile environment and extended for charity round-up.
 
-## How to use
+## How to run
 
 ### Install Expo
     npm install -g expo-cli
