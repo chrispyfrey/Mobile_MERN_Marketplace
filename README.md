@@ -5,4 +5,11 @@
 
 ## Goal
 
-#### Extend the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/master) to include a mobile client and the option to round to the next dollar amount as a charity donation.
+Extend the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/master) to include a mobile client and the option to round to the next dollar amount as a charity donation.
+
+## Technologies Used
+
+Node.js
+React Native
+MongoDB
+Stripe API
