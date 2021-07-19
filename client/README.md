@@ -1,4 +1,4 @@
-# Group #11 Final Project
+# Group #11 Final Project - Client
 
 React Native mobile client for our extension of the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/master). Only targets Android at this time. MERN Marketplace client reinterpreted for mobile environment and extended for charity round-up.
 
