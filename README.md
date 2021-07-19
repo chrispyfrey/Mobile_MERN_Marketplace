@@ -8,7 +8,7 @@ A collaborative project between Chris Frey, Aaron Dickman, Jeremy Gage, and Lore
 Extend the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/master) to include a mobile client and the option to round to the next dollar amount as a charity donation.
 
 ## Technologies
-MongoDB
+- MongoDB
 - Express
 - React Native
 - Node
