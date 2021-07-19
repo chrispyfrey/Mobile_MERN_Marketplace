@@ -2,6 +2,8 @@
 
 Server for our React Native mobile marketplace. Extends the [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/master) server to support next-dollar round-up of purchases to donate to charity.
 
+## How to run
+
 ### Install dependancies
     npm install
     
